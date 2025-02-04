@@ -22,4 +22,4 @@ Contents
 - Comparing cross-validation results with the holdout approach.
 
 Dataset
-Pima Indians Diabetes Database: ([Kaggle Link](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database) 
+Pima Indians Diabetes Database: ([Kaggle Link](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)) 
